@@ -1,0 +1,14 @@
+
+
+
+ ^[[5D1;5D for control back
+
+
+
+For CurrentFile.txt
+
+
+if up
+    lastWasUpdown = true
+    if not secondLastWas, savepos = pos
+    pos < savePos move right
